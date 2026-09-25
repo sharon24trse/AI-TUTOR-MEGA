@@ -1,0 +1,9 @@
+Fonologi adalah cabang linguistik yang mempelajari sistem bunyi suatu bahasa serta fungsi bunyi tersebut dalam membedakan makna. Berbeda dengan fonetik yang lebih berfokus pada aspek fisik bunyi, fonologi melihat bunyi sebagai bagian dari sistem bahasa. Fonologi membahas bagaimana bunyi-bunyi bahasa diatur dan digunakan oleh penutur.
+
+Salah satu konsep penting dalam fonologi adalah fonem. Fonem merupakan satuan bunyi terkecil yang dapat membedakan makna. Misalnya, kata paku dan baku memiliki perbedaan pada bunyi /p/ dan /b/. Perubahan satu bunyi tersebut menyebabkan perubahan makna sehingga /p/ dan /b/ dapat dianggap sebagai fonem yang berbeda dalam bahasa Indonesia.
+
+Fonologi juga membahas distribusi dan pola bunyi dalam suatu bahasa. Tidak semua bunyi dapat muncul secara bebas dalam semua posisi kata. Ada bunyi yang dapat muncul pada awal, tengah, atau akhir kata, sedangkan bunyi tertentu memiliki keterbatasan distribusi. Kajian terhadap pola tersebut membantu menjelaskan sistem bunyi yang terdapat dalam suatu bahasa.
+
+Selain fonem, fonologi juga berkaitan dengan unsur seperti suku kata, tekanan, intonasi, dan variasi bunyi. Dalam komunikasi lisan, perubahan intonasi dapat memengaruhi maksud atau nuansa suatu tuturan. Oleh sebab itu, fonologi tidak hanya berkaitan dengan bunyi segmental, tetapi juga dapat membahas unsur suprasegmental.
+
+Fonologi memiliki peranan penting dalam pembelajaran bahasa karena membantu siswa memahami hubungan antara bunyi dan makna. Kajian ini juga bermanfaat dalam pembelajaran membaca dan berbicara, terutama dalam memahami pelafalan yang tepat. Dalam penelitian bahasa, fonologi dapat digunakan untuk menganalisis sistem bunyi, kesalahan pengucapan, variasi bunyi, maupun perubahan bunyi dalam suatu bahasa.
